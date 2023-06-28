@@ -3,7 +3,7 @@ import Head from 'next/head'
 import Link from 'next/link'
 import Image from 'next/image'
 import AnimatedText from '@/Components/AnimatedText'
-import profilePic from '../../public/image/profile/developer-pic-1.png'
+import profilePic from '../../public/image/profile/IMG002.jpeg'
 import { LinkArrow } from '@/Components/icon'
 
 export default function Home() {

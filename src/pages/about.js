@@ -6,7 +6,7 @@ import AnimatedText from '@/Components/AnimatedText'
 import Skills from '@/Components/Skill'
 import Experience from '@/Components/Experience'
 import Layout from '@/Components/layout'
-import profilePic from '../../public/image/profile/developer-pic-2.jpeg'
+import profilePic from '../../public/image/profile/IMG001.jpeg'
 import { useMotionValue, useSpring, useInView } from 'framer-motion'
 import Education from '@/Components/Education'
 
