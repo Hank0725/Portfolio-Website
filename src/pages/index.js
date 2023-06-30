@@ -27,7 +27,7 @@ export default function Home() {
               <p className='mt-2 text-xs font-medium md:text-sm sm:text-xs'>透過網頁前端技術，完成能幫忙人類進步的網站，專精Vue.js和JavaScript，目前進修React.js和Next.js，完成相關技術網頁作品以及後端Node.js等前端工程師領域所需知識。目標成為一位全端工程師
               </p>
               <div className='flex items-center self-start mt-2 lg:self-center'>
-                <Link href='/file/MyResume(Hank).pdf' target={'_black'}
+                <Link href='../file/MyResume(Hank).pdf' target={'_black'}
                   className='flex
                 items-center
                 bg-light
