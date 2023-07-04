@@ -46,20 +46,20 @@ const Experience = () => {
                     md:w-[2px] md:left-[30px] xs:left-[20px]' />
                 <ul className='w-full flex flex-col items-start justify-between ml-4 xs:ml-2'>
                     <Detail position='前端工程師' company='如影優活'
-                        companyLink={'www.google.com'}
+                        companyLink={''}
                         time='2022/8-2023/2' address='台北,內湖'
-                        work="醫療物聯網，血壓計等健康數據串接" />
+                        work="藥局試用品網站製作(Vue3+TypeScript)
+                              健康量測數據資料網站製作" />
                     <Detail position='前端工程師' company='宇萌數位'
-                        companyLink={'www.google.com'}
-                        time='2021/4-2022/4' address='台北,南軟'
-                        work="Worked on a team responsible for developing Amazon's mobile app, including implementing new features such
-                        as product recommendations and user reviews, and optimizing the app's performance and reliability." />
+                        companyLink={''}
+                        time='2020/4-2022/4' address='台北,南軟'
+                        work="活動網站製作
+                            Model-viewer 3D模型展示
+                            產品開發、維護(Vue2)" />
                     <Detail position='Intern實習生' company='台灣微軟'
-                        companyLink={'www.google.com'}
+                        companyLink={''}
                         time='2011-2012' address='台北,信義'
-                        work="Worked on a team responsible for developing a new mobile app feature that allowed users to create and 
-                        share short-form video content, including designing and implementing a new user interface and developing 
-                        the backend infrastructure to support the feature." />
+                        work="擔任XBOX PM助理、資訊、電玩展覽Promoter" />
 
                 </ul>
             </div>

@@ -43,25 +43,23 @@ const Education = () => {
                 <ul className='w-full flex flex-col items-start justify-between ml-4'>
                     <Detail
                         type='東吳大學日文系'
-                        time='2005-2012'
+                        time='2005-2010'
                         place='外雙溪校區'
-                        info='Relevant courses included Data Structures and Algorithms, Computer Systems Engineering, and Artificial
-                        Intelligence.'
+                        info=''
                     />
                     <Detail
-                        type='Master Of Computer Science'
-                        time='2020-2022 '
-                        place='Stanford University'
-                        info="Completed a master's project on deep learning, developing a new neural network architecture for natural
-                        language understanding."
+                        type='市立內湖高工'
+                        time='2001-2005'
+                        place='內湖'
+                        info=""
                     />
-                    <Detail
+                    {/* <Detail
                         type='Online Coursework'
                         time='2016-2020'
                         place='Coursera And EdX'
                         info='Completed coursework in advanced topics such as Reinforcement Learning, Computer Vision, and Machine
                         Learning Engineering.'
-                    />
+                    /> */}
                 </ul>
             </div>
         </div>
