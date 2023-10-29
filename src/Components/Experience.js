@@ -45,6 +45,10 @@ const Experience = () => {
                     className='absolute left-9 top-0 w-[4px] h-full bg-dark origin-top dark:bg-light
                     md:w-[2px] md:left-[30px] xs:left-[20px]' />
                 <ul className='w-full flex flex-col items-start justify-between ml-4 xs:ml-2'>
+                    <Detail position='前端工程師' company='Google'
+                        companyLink={''}
+                        time='2024/10-Now' address='台北'
+                        work="React.js + Next.js" />
                     <Detail position='前端工程師' company='日本樂天國際商業銀行駐點工程師'
                         companyLink={''}
                         time='2023/10-Now' address='台北,北投'
