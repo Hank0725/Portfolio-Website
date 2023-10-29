@@ -48,8 +48,7 @@ const Experience = () => {
                     <Detail position='前端工程師' company='日本樂天國際商業銀行駐點工程師'
                         companyLink={''}
                         time='2023/10-Now' address='台北,北投'
-                        work="藥局試用品網站製作(Vue3+TypeScript)
-                              健康量測數據資料網站製作" />
+                        work="銀行系統維護和開發(Angular + TypeScript)" />
                     <Detail position='前端工程師' company='如影優活'
                         companyLink={''}
                         time='2022/8-2023/2' address='台北,內湖'
