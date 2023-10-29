@@ -45,6 +45,11 @@ const Experience = () => {
                     className='absolute left-9 top-0 w-[4px] h-full bg-dark origin-top dark:bg-light
                     md:w-[2px] md:left-[30px] xs:left-[20px]' />
                 <ul className='w-full flex flex-col items-start justify-between ml-4 xs:ml-2'>
+                    <Detail position='前端工程師' company='日本樂天國際商業銀行駐點工程師'
+                        companyLink={''}
+                        time='2023/10-Now' address='台北,北投'
+                        work="藥局試用品網站製作(Vue3+TypeScript)
+                              健康量測數據資料網站製作" />
                     <Detail position='前端工程師' company='如影優活'
                         companyLink={''}
                         time='2022/8-2023/2' address='台北,內湖'
