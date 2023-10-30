@@ -48,7 +48,7 @@ const Experience = () => {
                     <Detail position='前端工程師' company='Google'
                         companyLink={''}
                         time='2024/10-Now' address='台北'
-                        work="React.js + Next.js" />
+                        work="Next.js" />
                     <Detail position='前端工程師' company='日本樂天國際商業銀行駐點工程師'
                         companyLink={''}
                         time='2023/10-Now' address='台北,北投'
